@@ -1,0 +1,12 @@
+{
+  "name": "TalkDi — Luyện nói tự tin",
+  "short_name": "TalkDi",
+  "description": "Game luyện nói song ngữ Việt–Anh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EDE9",
+  "theme_color": "#0F6B47",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
